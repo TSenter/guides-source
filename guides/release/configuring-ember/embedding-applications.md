@@ -96,4 +96,4 @@ Router.map(function() {
 });
 ```
 
-<!-- eof - needed for pages that end in a code block  -->
+Please note that the `rootURL` property must have a trailing slash, e.g., `/blog/` instead of `/blog`.
